@@ -1,0 +1,247 @@
+{
+  "groups": [
+    {
+      "group": 1,
+      "letters": ["s", "a", "t", "i", "p", "n"],
+      "description": "First group - Basic sounds"
+    },
+    {
+      "group": 2,
+      "letters": ["c", "k", "e", "h", "r", "m", "d"],
+      "description": "Second group - More basic sounds"
+    },
+    {
+      "group": 3,
+      "letters": ["g", "o", "u", "l", "f", "b"],
+      "description": "Third group - More sounds"
+    },
+    {
+      "group": 4,
+      "letters": ["ai", "j", "oa", "ie", "ee", "or"],
+      "description": "Fourth group - Digraphs and blends"
+    },
+    {
+      "group": 5,
+      "letters": ["z", "w", "ng", "v", "oo", "y", "x"],
+      "description": "Fifth group - More digraphs"
+    },
+    {
+      "group": 6,
+      "letters": ["ch", "sh", "th"],
+      "description": "Sixth group - Consonant digraphs"
+    },
+    {
+      "group": 7,
+      "letters": ["qu", "ou", "oi", "ue", "er", "ar"],
+      "description": "Seventh group - More complex sounds"
+    }
+  ],
+  "actions": {
+    "s": {
+      "action": "Weave hand in an s shape, like a snake, and say ssssss",
+      "story": "A snake slithers through the grass making a 'sssss' sound",
+      "song": "The snake goes sss, sss, sss, sss, sss, sss"
+    },
+    "a": {
+      "action": "Wiggle fingers above elbow as if ants crawling on you and say a, a, a",
+      "story": "Ants are crawling up your arm, making you say 'a, a, a'",
+      "song": "Ants on my arm, a, a, a, a, a, a"
+    },
+    "t": {
+      "action": "Turn head from side to side as if watching tennis and say t, t, t",
+      "story": "Watch the tennis ball go back and forth, saying 't, t, t'",
+      "song": "Tennis, tennis, t, t, t, t, t, t"
+    },
+    "i": {
+      "action": "Pretend to be a mouse by wiggling fingers at end of nose and squeak i, i, i",
+      "story": "A little mouse squeaks 'i, i, i'",
+      "song": "Inky the mouse, i, i, i, i, i, i"
+    },
+    "p": {
+      "action": "Pretend to puff out candles and say p, p, p",
+      "story": "Blow out the candles on a birthday cake, saying 'p, p, p'",
+      "song": "Puff out the candles, p, p, p, p, p, p"
+    },
+    "n": {
+      "action": "Make a noise, as if you are a plane, hold arms out and say nnnnnn",
+      "story": "An airplane flies overhead making 'nnnnnn' sound",
+      "song": "The plane goes nnn, nnn, nnn, nnn, nnn, nnn"
+    },
+    "c": {
+      "action": "Raise hands and snap fingers as if playing castanets and say ck, ck, ck",
+      "story": "Click the castanets together, saying 'ck, ck, ck'",
+      "song": "Click the castanets, ck, ck, ck, ck, ck, ck"
+    },
+    "k": {
+      "action": "Raise hands and snap fingers as if playing castanets and say ck, ck, ck",
+      "story": "Click the castanets together, saying 'ck, ck, ck'",
+      "song": "Click the castanets, ck, ck, ck, ck, ck, ck"
+    },
+    "e": {
+      "action": "Pretend to tap an egg on the side of a pan and crack it into the pan, saying eh, eh, eh",
+      "story": "Crack an egg into a pan, saying 'eh, eh, eh'",
+      "song": "Crack the egg, eh, eh, eh, eh, eh, eh"
+    },
+    "h": {
+      "action": "Hold hand in front of mouth panting as if you are out of breath and say h, h, h",
+      "story": "You're out of breath after running, saying 'h, h, h'",
+      "song": "Out of breath, h, h, h, h, h, h"
+    },
+    "r": {
+      "action": "Pretend to be a puppy holding a piece of rag, shaking head from side to side, and say rrrrrr",
+      "story": "A puppy shakes a rag, growling 'rrrrrr'",
+      "song": "The puppy growls, rrr, rrr, rrr, rrr, rrr, rrr"
+    },
+    "m": {
+      "action": "Rub tummy as if seeing tasty food and say mmmmmm",
+      "story": "You see delicious food and say 'mmmmmm'",
+      "song": "Mmm, tasty food, mmm, mmm, mmm, mmm, mmm, mmm"
+    },
+    "d": {
+      "action": "Beat hands up and down as if playing a drum and say d, d, d",
+      "story": "Beat the drum, saying 'd, d, d'",
+      "song": "Beat the drum, d, d, d, d, d, d"
+    },
+    "g": {
+      "action": "Spiral hand down, as if water going down the drain, and say g, g, g",
+      "story": "Water goes down the drain, making 'g, g, g' sound",
+      "song": "Down the drain, g, g, g, g, g, g"
+    },
+    "o": {
+      "action": "Pretend to turn light switch on and off and say o, o; o, o",
+      "story": "Turn the light on and off, saying 'o, o'",
+      "song": "Turn the light, o, o, o, o, o, o"
+    },
+    "u": {
+      "action": "Pretend to be putting up an umbrella and say u, u, u",
+      "story": "Put up your umbrella, saying 'u, u, u'",
+      "song": "Up with the umbrella, u, u, u, u, u, u"
+    },
+    "l": {
+      "action": "Pretend to lick a lollipop and say llllll",
+      "story": "Lick a lollipop, saying 'llllll'",
+      "song": "Lick the lollipop, lll, lll, lll, lll, lll, lll"
+    },
+    "f": {
+      "action": "Let hands gently come together as if toy fish deflating, and say ffffff",
+      "story": "A fish deflates, making 'ffffff' sound",
+      "song": "The fish goes fff, fff, fff, fff, fff, fff"
+    },
+    "b": {
+      "action": "Pretend to hit a ball with a bat and say b, b, b",
+      "story": "Hit a ball with a bat, saying 'b, b, b'",
+      "song": "Hit the ball, b, b, b, b, b, b"
+    },
+    "ai": {
+      "action": "Cup your hand over ear, as if hard of hearing and say /ai/, /ai/, /ai/",
+      "story": "Cup your hand over your ear as if hard of hearing, saying 'ai, ai, ai'",
+      "song": "I can hear, ai, ai, ai, ai, ai, ai"
+    },
+    "j": {
+      "action": "Pretend to wobble on a plate and say j, j, j",
+      "story": "Jelly wobbles on a plate, saying 'j, j, j'",
+      "song": "Wobbly jelly, j, j, j, j, j, j"
+    },
+    "oa": {
+      "action": "Cover your mouth and say /oa/ in surprise!",
+      "story": "Cover your mouth in surprise, saying 'oa!'",
+      "song": "Oh no! oa, oa, oa, oa, oa, oa"
+    },
+    "ie": {
+      "action": "Salute like a sailor and say /ie/, /ie/",
+      "story": "Salute like a sailor, saying 'ie, ie'",
+      "song": "Salute, ie, ie, ie, ie, ie, ie"
+    },
+    "ee": {
+      "action": "Pretend your hands are donkey's ears. Flap them up and bray like a donkey and say /ee/",
+      "story": "Put your hands on your head like donkey ears, flap them up and bray, saying 'ee'",
+      "song": "Donkey ears, ee, ee, ee, ee, ee, ee"
+    },
+    "or": {
+      "action": "Pretend your hands are donkey's ears. Flap them down and bray like a donkey and say /or/",
+      "story": "Put your hands on your head like donkey ears, flap them down and bray, saying 'or'",
+      "song": "Donkey bray, or, or, or, or, or, or"
+    },
+    "z": {
+      "action": "Put arms out at sides and pretend to be a bee, saying zzzzzz",
+      "story": "A bee flies around, making 'zzzzzz' sound",
+      "song": "The bee goes zzz, zzz, zzz, zzz, zzz, zzz"
+    },
+    "w": {
+      "action": "Blow on to open hand, as if you are the wind, and say wh, wh, wh",
+      "story": "The wind blows, saying 'wh, wh, wh'",
+      "song": "The wind blows, wh, wh, wh, wh, wh, wh"
+    },
+    "ng": {
+      "action": "Say /ng/ as you pretend to lift weight above your head",
+      "story": "Pretend to lift a heavy weight above your head, saying 'ng'",
+      "song": "Lift the weight, ng, ng, ng, ng, ng, ng"
+    },
+    "v": {
+      "action": "Pretend to be holding the steering wheel of a van and say vvvvvv",
+      "story": "Drive a van, making 'vvvvvv' sound",
+      "song": "Drive the van, vvv, vvv, vvv, vvv, vvv, vvv"
+    },
+    "oo": {
+      "action": "Pretend to be a cuckoo bird and jut head forward to say the short /oo/ sound, or jut head backward to say the long /oo/ sound",
+      "story": "Be a cuckoo bird - jut head forward for short /oo/ or backward for long /oo/",
+      "song": "Cuckoo clock, oo, oo, oo, oo, oo, oo"
+    },
+    "y": {
+      "action": "Pretend to eat yogurt from a spoon and say y, y, y",
+      "story": "Eat yogurt, saying 'y, y, y'",
+      "song": "Yummy yogurt, y, y, y, y, y, y"
+    },
+    "x": {
+      "action": "Make the /ks/ sound as you shoot with a laser toy gun",
+      "story": "Shoot with a laser toy gun, making the /ks/ sound",
+      "song": "Laser gun, ks, ks, ks, ks, ks, ks"
+    },
+    "ch": {
+      "action": "Move arms like the piston train and say /ch/, /ch/",
+      "story": "Move your arms like a train's piston, saying 'ch, ch'",
+      "song": "The train goes ch, ch, ch, ch, ch, ch"
+    },
+    "sh": {
+      "action": "Place index finger over lips in a shushing gesture and say /sh/",
+      "story": "Put your finger over your lips to shush, saying 'sh'",
+      "song": "Be quiet, sh, sh, sh, sh, sh, sh"
+    },
+    "th": {
+      "action": "Pretend to be a clown and stick your tongue out only a little to say the voiced /th/, or stick your tongue out further to say the voiceless /TH/",
+      "story": "Be a clown - stick tongue out a little for voiced /th/ or further for voiceless /TH/",
+      "song": "Stick out tongue, th, th, th, th, th, th"
+    },
+    "qu": {
+      "action": "Make a duck's beak with hinged hands and say /qu/, /qu/, /qu/",
+      "story": "Make a duck's beak with your hinged hands, saying 'qu, qu, qu'",
+      "song": "The duck quacks, qu, qu, qu, qu, qu, qu"
+    },
+    "ou": {
+      "action": "Pretend your thumb is being pricked by a needle and say /ou/!",
+      "story": "Your thumb is pricked by a needle, saying 'ou!'",
+      "song": "Ouch! ou, ou, ou, ou, ou, ou"
+    },
+    "oi": {
+      "action": "Pretend to be a sailor, cup hands around mouth and say passing boat /oi/!",
+      "story": "Be a sailor, cup hands around mouth and shout to a passing boat, saying 'oi!'",
+      "song": "Ship ahoy! oi, oi, oi, oi, oi, oi"
+    },
+    "ue": {
+      "action": "Point to people around you and say /ue/, /ue/, /ue/",
+      "story": "Point to people around you, saying 'ue, ue, ue'",
+      "song": "Point to you, ue, ue, ue, ue, ue, ue"
+    },
+    "er": {
+      "action": "Roll hands over and over each other like a mixer and say /er/, /er/, /er/",
+      "story": "Roll your hands over and over like a mixer, saying 'er, er, er'",
+      "song": "Mix it up, er, er, er, er, er, er"
+    },
+    "ar": {
+      "action": "Open mouth wide and say ah",
+      "story": "Open mouth wide at the doctor, saying 'ah'",
+      "song": "Open wide, ar, ar, ar, ar, ar, ar"
+    }
+  }
+}
+

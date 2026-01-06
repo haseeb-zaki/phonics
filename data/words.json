@@ -1,0 +1,74 @@
+{
+  "kids": {
+    "2": [
+      "at", "it", "up", "go", "me", "we", "be", "to", "do", "so", "no", "my", "by", "he", "she", "is", "am", "an", "as", "if", "in", "on", "or", "of", "us",
+      "an", "as", "at", "in", "is", "it", "on", "up", "us",
+      "ap", "pa", "pi", "si", "ta", "ti", "na", "ni", "sa", "st", "sp", "sn", "ts", "ps", "ns",
+      "ed", "eh", "em", "er", "re", "de", "he", "me", "we", "be", "ce", "ke", "ch", "cr", "cm", "cd", "hr", "hm", "hd", "rm", "rd", "md",
+      "bo", "fo", "lo", "of", "to", "do", "so", "no", "go", "gu", "lu", "fu", "bu", "og", "ug", "lg", "fg", "bg",
+      "ai", "or", "ee", "ie", "oa", "jo", "ja", "je", "ji", "jr", "jm", "jd",
+      "oo", "we", "be", "me", "he", "ze", "ve", "ye", "xe", "ng",
+      "ch", "sh", "th",
+      "qu", "ou", "oi", "ue", "er", "ar"
+    ],
+    "3": [
+      "cat", "dog", "sun", "hat", "bat", "rat", "mat", "sat", "pat", "fat", "can", "man", "pan", "fan", "van", "bed", "red", "led", "wed", "big", "pig", "wig", "dig", "fig", "box", "fox", "mop", "top", "pop", "cup",
+      "ant", "apt", "asp", "ass", "ins", "its", "nap", "nip", "pan", "pat", "pin", "pit", "sap", "sat", "sin", "sip", "sit", "tan", "tap", "tin", "tip",
+      "ats", "its", "pas", "pis", "tas", "tis", "nas", "nis", "sas", "sts", "sps", "sns", "tss", "pss", "nss", "ats", "tis", "nas", "sas",
+      "red", "bed", "led", "wed", "hem", "her", "rem", "dem", "hed", "med", "red", "ced", "ked", "ech", "erc", "erm", "erd", "hrm", "hrm", "mrd", "mrd",
+      "fog", "log", "bog", "bug", "lug", "fug", "guf", "gul", "gub", "gof", "gol", "gob", "ogf", "ogl", "ogb", "ugl", "ugf", "ugb", "lof", "lob", "fob",
+      "jai", "joe", "joo", "jor", "jai", "joe", "joo", "jor", "aij", "oaj", "iej", "eej", "orj",
+      "zoo", "woo", "voo", "yoo", "xoo", "nga", "ngi", "ngu", "ngl", "ngf", "ngb",
+      "cha", "chi", "chu", "chl", "chf", "chb", "sha", "shi", "shu", "shl", "shf", "shb", "tha", "thi", "thu", "thl", "thf", "thb",
+      "qua", "qui", "quu", "qul", "quf", "qub", "oua", "oui", "ouu", "oul", "ouf", "oub", "oia", "oii", "oiu", "oil", "oif", "oib", "uea", "uei", "ueu", "uel", "uef", "ueb", "era", "eri", "eru", "erl", "erf", "erb", "ara", "ari", "aru", "arl", "arf", "arb"
+    ],
+    "4": [
+      "book", "tree", "fish", "bird", "frog", "duck", "lion", "bear", "deer", "goat", "moon", "star", "rain", "snow", "wind", "fire", "water", "apple", "banana", "grape", "pear", "cake", "milk", "bread", "cheese",
+      "ants", "naps", "pans", "pant", "pins", "pint", "pits", "sans", "saps", "sits", "snap", "snip", "span", "spin", "spit", "tans", "taps", "tins", "tips"
+    ],
+    "5": [
+      "apple", "house", "water", "table", "chair", "happy", "smile", "cloud", "ocean", "river", "forest", "garden", "flower", "butter", "candle", "pencil", "paper", "school", "friend", "family", "mother", "father", "sister", "brother", "puppy",
+      "pants", "pints", "snaps", "snips", "spans", "spins", "spits", "stain", "stint", "tains", "taint"
+    ],
+    "6": [
+      "school", "friend", "garden", "flower", "butter", "rabbit", "turtle", "monkey", "elephant", "giraffe", "orange", "purple", "yellow", "brown", "circle", "square", "triangle", "winter", "summer", "spring", "autumn", "dinner", "breakfast", "lunch", "cookie",
+      "paints", "pantie", "pintas", "saints", "stains", "taints"
+    ]
+  },
+  "adults": {
+    "2": [
+      "be", "to", "of", "in", "it", "is", "at", "as", "we", "he", "do", "go", "so", "no", "my", "by", "up", "on", "or", "if", "an", "am", "me", "us",
+      "an", "as", "at", "in", "is", "it", "on", "up", "us",
+      "ap", "pa", "pi", "si", "ta", "ti", "na", "ni", "sa", "st", "sp", "sn", "ts", "ps", "ns",
+      "ed", "eh", "em", "er", "re", "de", "he", "me", "we", "be", "ce", "ke", "ch", "cr", "cm", "cd", "hr", "hm", "hd", "rm", "rd", "md",
+      "bo", "fo", "lo", "of", "to", "do", "so", "no", "go", "gu", "lu", "fu", "bu", "og", "ug", "lg", "fg", "bg",
+      "ai", "or", "ee", "ie", "oa", "jo", "ja", "je", "ji", "jr", "jm", "jd",
+      "oo", "we", "be", "me", "he", "ze", "ve", "ye", "xe", "ng",
+      "ch", "sh", "th",
+      "qu", "ou", "oi", "ue", "er", "ar"
+    ],
+    "3": [
+      "the", "and", "for", "are", "but", "not", "you", "all", "can", "had", "her", "was", "one", "our", "out", "day", "get", "has", "him", "his", "how", "man", "new", "now", "old", "see", "two", "way", "who", "boy",
+      "ant", "apt", "asp", "ass", "ins", "its", "nap", "nip", "pan", "pat", "pin", "pit", "sap", "sat", "sin", "sip", "sit", "tan", "tap", "tin", "tip",
+      "ats", "its", "pas", "pis", "tas", "tis", "nas", "nis", "sas", "sts", "sps", "sns", "tss", "pss", "nss", "ats", "tis", "nas", "sas",
+      "red", "bed", "led", "wed", "hem", "her", "rem", "dem", "hed", "med", "red", "ced", "ked", "ech", "erc", "erm", "erd", "hrm", "hrm", "mrd", "mrd",
+      "fog", "log", "bog", "bug", "lug", "fug", "guf", "gul", "gub", "gof", "gol", "gob", "ogf", "ogl", "ogb", "ugl", "ugf", "ugb", "lof", "lob", "fob",
+      "jai", "joe", "joo", "jor", "jai", "joe", "joo", "jor", "aij", "oaj", "iej", "eej", "orj",
+      "zoo", "woo", "voo", "yoo", "xoo", "nga", "ngi", "ngu", "ngl", "ngf", "ngb",
+      "cha", "chi", "chu", "chl", "chf", "chb", "sha", "shi", "shu", "shl", "shf", "shb", "tha", "thi", "thu", "thl", "thf", "thb",
+      "qua", "qui", "quu", "qul", "quf", "qub", "oua", "oui", "ouu", "oul", "ouf", "oub", "oia", "oii", "oiu", "oil", "oif", "oib", "uea", "uei", "ueu", "uel", "uef", "ueb", "era", "eri", "eru", "erl", "erf", "erb", "ara", "ari", "aru", "arl", "arf", "arb"
+    ],
+    "4": [
+      "that", "with", "have", "this", "will", "your", "from", "they", "know", "want", "been", "good", "much", "some", "time", "very", "when", "come", "here", "just", "like", "long", "make", "many", "over", "such", "take", "than", "them", "well",
+      "ants", "naps", "pans", "pant", "pins", "pint", "pits", "sans", "saps", "sits", "snap", "snip", "span", "spin", "spit", "tans", "taps", "tins", "tips"
+    ],
+    "5": [
+      "which", "their", "would", "there", "could", "other", "after", "first", "never", "these", "think", "where", "being", "every", "great", "might", "shall", "still", "those", "under", "while", "world", "years", "three", "small", "large", "right", "light", "night", "today",
+      "pants", "pints", "snaps", "snips", "spans", "spins", "spits", "stain", "stint", "tains", "taint"
+    ],
+    "6": [
+      "people", "before", "should", "though", "little", "around", "always", "became", "become", "during", "family", "friend", "garden", "happen", "letter", "matter", "mother", "number", "person", "please", "pretty", "rather", "really", "school", "second", "sister", "something", "sometimes", "sudden", "system",
+      "paints", "pantie", "pintas", "saints", "stains", "taints"
+    ]
+  }
+}

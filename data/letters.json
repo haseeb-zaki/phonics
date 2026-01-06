@@ -1,0 +1,135 @@
+{
+  "letters": {
+    "A": {
+      "sounds": ["/ă/", "/ā/", "/ä/"],
+      "examples": ["apple", "ape", "father"],
+      "tip": "A can say /ă/ (short) as in apple, /ā/ (long) as in ape, or /ä/ as in father."
+    },
+    "B": {
+      "sounds": ["/b/"],
+      "examples": ["ball", "bat", "book"],
+      "tip": "B says /b/ as in ball. It's a voiced sound."
+    },
+    "C": {
+      "sounds": ["/k/", "/s/"],
+      "examples": ["cat", "cent", "city"],
+      "tip": "C says /k/ before a, o, u (cat) and /s/ before e, i, y (cent, city)."
+    },
+    "D": {
+      "sounds": ["/d/"],
+      "examples": ["dog", "duck", "door"],
+      "tip": "D says /d/ as in dog. It's a voiced sound."
+    },
+    "E": {
+      "sounds": ["/ĕ/", "/ē/"],
+      "examples": ["egg", "eagle", "me"],
+      "tip": "E can say /ĕ/ (short) as in egg or /ē/ (long) as in eagle."
+    },
+    "F": {
+      "sounds": ["/f/"],
+      "examples": ["fish", "fan", "fun"],
+      "tip": "F says /f/ as in fish. It's an unvoiced sound."
+    },
+    "G": {
+      "sounds": ["/g/", "/j/"],
+      "examples": ["goat", "gem", "gym"],
+      "tip": "G says /g/ before a, o, u (goat) and /j/ before e, i, y (gem, gym)."
+    },
+    "H": {
+      "sounds": ["/h/"],
+      "examples": ["hat", "house", "happy"],
+      "tip": "H says /h/ as in hat. It's a breathy sound."
+    },
+    "I": {
+      "sounds": ["/ĭ/", "/ī/"],
+      "examples": ["igloo", "ice", "bike"],
+      "tip": "I can say /ĭ/ (short) as in igloo or /ī/ (long) as in ice."
+    },
+    "J": {
+      "sounds": ["/j/"],
+      "examples": ["jam", "jump", "joy"],
+      "tip": "J says /j/ as in jam. It's a voiced sound."
+    },
+    "K": {
+      "sounds": ["/k/"],
+      "examples": ["kite", "key", "king"],
+      "tip": "K says /k/ as in kite. It's an unvoiced sound."
+    },
+    "L": {
+      "sounds": ["/l/"],
+      "examples": ["lion", "leaf", "love"],
+      "tip": "L says /l/ as in lion. Place your tongue behind your teeth."
+    },
+    "M": {
+      "sounds": ["/m/"],
+      "examples": ["moon", "mouse", "map"],
+      "tip": "M says /m/ as in moon. Your lips come together."
+    },
+    "N": {
+      "sounds": ["/n/"],
+      "examples": ["nest", "nose", "net"],
+      "tip": "N says /n/ as in nest. Your tongue touches the roof of your mouth."
+    },
+    "O": {
+      "sounds": ["/ŏ/", "/ō/", "/ö/"],
+      "examples": ["octopus", "open", "move"],
+      "tip": "O can say /ŏ/ (short) as in octopus, /ō/ (long) as in open, or /ö/ as in move."
+    },
+    "P": {
+      "sounds": ["/p/"],
+      "examples": ["pig", "pen", "park"],
+      "tip": "P says /p/ as in pig. It's an unvoiced sound with a puff of air."
+    },
+    "Q": {
+      "sounds": ["/kw/"],
+      "examples": ["queen", "quick", "quiet"],
+      "tip": "Q always comes with U and says /kw/ as in queen."
+    },
+    "R": {
+      "sounds": ["/r/"],
+      "examples": ["rabbit", "red", "run"],
+      "tip": "R says /r/ as in rabbit. Curl your tongue back slightly."
+    },
+    "S": {
+      "sounds": ["/s/", "/z/"],
+      "examples": ["sun", "rose", "has"],
+      "tip": "S says /s/ at the start (sun) and /z/ at the end of words (rose, has)."
+    },
+    "T": {
+      "sounds": ["/t/"],
+      "examples": ["tiger", "top", "ten"],
+      "tip": "T says /t/ as in tiger. It's an unvoiced sound."
+    },
+    "U": {
+      "sounds": ["/ŭ/", "/ū/", "/oo/"],
+      "examples": ["umbrella", "unicorn", "put"],
+      "tip": "U can say /ŭ/ (short) as in umbrella, /ū/ (long) as in unicorn, or /oo/ as in put."
+    },
+    "V": {
+      "sounds": ["/v/"],
+      "examples": ["van", "vase", "love"],
+      "tip": "V says /v/ as in van. It's a voiced sound. Bite your lower lip."
+    },
+    "W": {
+      "sounds": ["/w/"],
+      "examples": ["water", "wind", "win"],
+      "tip": "W says /w/ as in water. Round your lips like you're saying 'oo'."
+    },
+    "X": {
+      "sounds": ["/ks/", "/z/"],
+      "examples": ["box", "xylophone", "x-ray"],
+      "tip": "X says /ks/ at the end (box) and /z/ at the start (xylophone, x-ray)."
+    },
+    "Y": {
+      "sounds": ["/y/", "/ī/", "/ē/"],
+      "examples": ["yellow", "my", "happy"],
+      "tip": "Y says /y/ at the start (yellow), /ī/ in the middle (my), or /ē/ at the end (happy)."
+    },
+    "Z": {
+      "sounds": ["/z/"],
+      "examples": ["zebra", "zip", "buzz"],
+      "tip": "Z says /z/ as in zebra. It's a voiced sound like a buzzing bee."
+    }
+  }
+}
+
